@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>單字背誦工具</title>
+
+<style>
+body{
+  margin:0;padding:18px;background:#f4f6fb;
+  font-family:system-ui,"Noto Sans TC";
+}
+.container{max-width:900px;margin:auto;}
+header h1{
+  margin:0;padding:10px 14px;background:#fff;border-radius:8px;
+  font-size:20px;box-shadow:0 6px 16px rgba(0,0,0,.06);
+}
+
+/* 顯示區 */
+.display{
+  position:relative;margin-top:14px;background:#fff;
+  border-radius:12px;border:1px solid #e6edff;
+  box-shadow:0 8px 24px rgba(0,0,0,.06);
+  padding:26px;height:380px;cursor:pointer;
+  display:flex;flex-direction:column;
+}
+
+.word{
+  font-size:38px;font-weight:800;color:#0b63d6;
+}
+
+.content{
+  margin-top:18px;overflow:auto;flex:1;
+}
+
+.def{
+  margin-bottom:18px;
+  line-height:1.6;
+}
+
+.meaning-zh{font-weight:700;}
+.pos{color:#4b6cb7;font-weight:600;}
+.example-en{margin-top:4px;}
+.example-zh{margin-top:2px;color:#555;}
+
+.hidden{display:none;}
+
+.icon-btn{
+  position:absolute;top:10px;right:10px;
+  width:34px;height:34px;border-radius:50%;
+  border:none;background:#eef4ff;color:#0b63d6;
+  font-size:18px;font-weight:700;cursor:pointer;
+}
+
+.progress{
+  position:absolute;
+  top:14px;
+  right:54px;
+  font-size:14px;
+  color:#666;
+  font-weight:600;
+}
+
+/* 其他區塊 */
+.controls{margin-top:12px;display:flex;gap:8px;}
+.controls button{
+  padding:8px 12px;border-radius:8px;
+  border:1px solid #d7e6fd;background:#fff;
+  color:#0b63d6;font-weight:700;
+}
+.adder{
+  margin-top:14px;background:#fff;padding:14px;
+  border-radius:10px;border:1px solid #eef3fb;
+}
+.adder textarea{
+  width:100%;padding:10px;border-radius:8px;
+  border:1px solid #e6eefc;margin-top:8px;
+}
+
+/* 放大模式 */
+.fullscreen .display{
+  position:fixed;inset:4%;height:auto;z-index:9999;
+}
+.fullscreen header,
+.fullscreen .controls,
+.fullscreen .adder{display:none;}
+</style>
+</head>
+
+<body>
+<div class="container" id="root">
+
+<header>
+  <h1>單字背誦工具（一次一字）</h1>
+</header>
+
+<div class="display" id="display">
+  <div class="progress" id="progress"></div>
+  <button class="icon-btn" id="fsBtn">⛶</button>
+  <div class="word" id="word"></div>
+  <div class="content hidden" id="content"></div>
+</div>
+
+<div class="controls">
+  <button id="prev">上一個</button>
+  <button id="next">下一個</button>
+</div>
+
+<div class="adder">
+  <strong>載入單字表（JSON）</strong>
+  <textarea id="jsonInput"></textarea>
+  <button id="load">載入 / 覆蓋</button>
+</div>
+
+</div>
+
+<script>
+let words=[];
+let idx=0;
+let revealed=false;
+let fullscreen=false;
+
+const wordEl=word;
+const contentEl=content;
+
+function render(){
+  if(!words.length)return;
+  const w=words[idx];
+
+  wordEl.textContent=w.word;
+  progress.textContent=`${idx+1} / ${words.length}`;
+  contentEl.innerHTML="";
+
+  w.definitions.forEach(d=>{
+    contentEl.innerHTML+=`
+      <div class="def">
+        <div class="meaning-zh">
+          ${d.meaning_zh}（${d.part_of_speech}）
+        </div>
+        <div class="example-en">${d.example_en}</div>
+        <div class="example-zh">${d.example_zh}</div>
+      </div>
+    `;
+  });
+
+  contentEl.classList.toggle("hidden",!revealed);
+}
+
+display.onclick=()=>{
+  if(!revealed){
+    revealed=true;
+  }else{
+    idx=(idx+1)%words.length;
+    revealed=false;
+  }
+  render();
+};
+
+prev.onclick=()=>{idx=(idx-1+words.length)%words.length;revealed=false;render();};
+next.onclick=()=>{idx=(idx+1)%words.length;revealed=false;render();};
+
+fsBtn.onclick=e=>{
+  e.stopPropagation();
+  fullscreen=!fullscreen;
+  root.classList.toggle("fullscreen",fullscreen);
+  fsBtn.textContent=fullscreen?"✕":"⛶";
+};
+
+document.addEventListener("keydown",e=>{
+  if(e.key==="Escape"&&fullscreen){
+    fullscreen=false;
+    root.classList.remove("fullscreen");
+    fsBtn.textContent="⛶";
+  }
+});
+
+load.onclick=()=>{
+  try{
+    const data=JSON.parse(jsonInput.value);
+    if(!Array.isArray(data))throw 0;
+    words=data;
+    idx=0;revealed=false;
+    render();
+  }catch{ alert("JSON 格式錯誤"); }
+};
+
+render();
+</script>
+</body>
+</html>
