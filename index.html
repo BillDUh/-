@@ -53,11 +53,33 @@ header h1{
 }
 
 /* 其他區塊 */
-.controls{margin-top:12px;display:flex;gap:8px;}
-.controls button{
-  padding:8px 12px;border-radius:8px;
+.controls{
+  display:flex;
+  flex-direction:column;
+  gap:8px;
+  margin-top:12px;
+}
+
+.controls-row{
+  display:flex;
+  gap:8px;
+  align-items:center;
+}
+
+.controls button,
+.controls input{
+  height:36px;
+  padding:0 12px;
+  border-radius:8px;
   border:1px solid #d7e6fd;background:#fff;
   color:#0b63d6;font-weight:700;
+  cursor:pointer;
+  font-size:14px;
+}
+
+.controls-row:first-child button{
+  flex:1 1 auto;
+  min-width:80px;
 }
 .adder{
   margin-top:14px;background:#fff;padding:14px;
@@ -83,11 +105,42 @@ header h1{
   padding:8px 12px;border-radius:10px;
   border:1px solid #ffd9cc;background:#fff6f0;
   color:#d65a00;font-weight:800;cursor:pointer;
-  box-shadow:0 4px 12px rgba(214,90,0,.08);
+  box-shadow:0 4px 12px rgba(155, 106, 71, 0.08);
 }
 
 /* 匯出按鈕顯示 count */
-#exportHard{min-width:160px;}
+#exportHard{min-width:100px;}
+/* 新增：開關按鈕 */
+.toggle-btn{
+  padding:8px 14px;border-radius:8px;
+  border:1px solid #d7e6fd;background:#fff;
+  color:#0b63d6;font-weight:700;cursor:pointer;
+}
+.toggle-btn.active{
+  background:#eef4ff;border-color:#0b63d6;
+}
+
+/* 新增：搜尋框 */
+#jumpInput{
+  padding:0 10px;
+  border-radius:6px;border:1px solid #e6eefc;
+  font-size:14px;
+  flex:1 1 auto;
+  min-width:200px;
+}
+#jumpBtn{
+  padding:0 12px;
+  border-radius:8px;
+  border:1px solid #d7e6fd;background:#fff;
+  color:#0b63d6;font-weight:700;cursor:pointer;
+  min-width:80px;
+  height:36px;
+}
+
+/* 匯出按鈕顯示 count */
+#exportHard{
+  min-width:150px;
+}
 </style>
 </head>
 
@@ -109,12 +162,25 @@ header h1{
 </div>
 
 <div class="controls">
-  <button id="prev">上一個</button>
-  <button id="next">下一個</button>
+  <!-- 第一列：上一個、下一個、一律顯示中文 -->
+  <div class="controls-row">
+    <button id="prev">上一個</button>
+    <button id="next">下一個</button>
+    <button class="toggle-btn" id="toggleChineseBtn" title="開啟後中文不隱藏">一律顯示中文</button>
+  </div>
 
-  <!-- 新增：匯出不熟單字按鈕 -->
-  <button id="exportHard">匯出不熟單字 (0)</button>
+  <!-- 第二列：輸入框、跳轉 -->
+  <div class="controls-row">
+    <input type="text" id="jumpInput" placeholder="輸入編號 (1～n)">
+    <button id="jumpBtn">跳轉</button>
+  </div>
+
+  <!-- 第三列：匯出 -->
+  <div class="controls-row">
+    <button id="exportHard">匯出不熟單字 (0)</button>
+  </div>
 </div>
+
 
 <div class="adder">
   <strong>加入單字表</strong>
@@ -127,6 +193,7 @@ header h1{
     <button id="pasteJson">📋 從剪貼簿加入</button>
     <button id="openFile">📁 選擇 .json 檔</button>
     <input type="file" id="fileInput" accept=".json" hidden>
+    <button id="loadHardVocab">載入不熟單字表</button>
   </div>
 </div>
 
@@ -154,11 +221,18 @@ const loadVocabBtn = document.getElementById("loadVocab"); // renamed from loadV
 const addHardBtn = document.getElementById("addHardBtn");
 const exportHard = document.getElementById("exportHard");
 
+// 新增：開關、搜尋、不熟單字表相關 DOM
+const toggleChineseBtn = document.getElementById("toggleChineseBtn");
+const jumpInput = document.getElementById("jumpInput");
+const jumpBtn = document.getElementById("jumpBtn");
+const loadHardVocab = document.getElementById("loadHardVocab");
+
 /* ===== 狀態 ===== */
 let words = [];
 let idx = 0;
 let revealed = false;
 let fullscreen = false;
+let showChinese = false; // 新增：控制中文是否顯示
 
 /* ===== 不熟單字清單（儲存在 localStorage） ===== */
 let hardList = [];
@@ -195,7 +269,7 @@ function render(){
     `;
   });
 
-  contentEl.classList.toggle("hidden", !revealed);
+  contentEl.classList.toggle("hidden", !revealed && !showChinese);
   updateHardButton(); // 更新按鈕顯示（例如是否已在不熟清單）
 }
 
@@ -208,28 +282,34 @@ function updateHardButton(){
   if(words.length){
     const cur = words[idx];
     const exists = hardList.some(h => h.word === cur.word);
-    addHardBtn.textContent = exists ? "已加入" : "不熟 +";
-    addHardBtn.disabled = exists;
-    addHardBtn.title = exists ? "此字已在不熟清單" : "加入不熟單字";
-    addHardBtn.style.opacity = exists ? 0.7 : 1;
+    addHardBtn.textContent = exists ? "移除 ✓" : "不熟 +";
+    addHardBtn.disabled = false;
+    addHardBtn.title = exists ? "從不熟清單移除" : "加入不熟單字";
   }else{
     addHardBtn.textContent = "不熟 +";
     addHardBtn.disabled = false;
     addHardBtn.title = "加入不熟單字";
-    addHardBtn.style.opacity = 1;
   }
 }
 
 /* ===== 操作邏輯 ===== */
 display.onclick = () => {
   if(!words.length) return;
-  if(!revealed){
-    revealed = true;
-  }else{
+  if(showChinese){
+    // 開啟中文時：直接換下一個
     idx = (idx + 1) % words.length;
     revealed = false;
+    render();
+  }else{
+    // 關閉中文時：點一下顯示，再點一下換下一個
+    if(!revealed){
+      revealed = true;
+    }else{
+      idx = (idx + 1) % words.length;
+      revealed = false;
+    }
+    render();
   }
-  render();
 };
 
 prev.onclick = () => {
@@ -372,6 +452,9 @@ addHardBtn.addEventListener("click", e => {
 
   // 以 word 欄位作為唯一鍵，避免重複
   if(hardList.some(h => h.word === cur.word)){
+    // 移除功能
+    hardList = hardList.filter(h => h.word !== cur.word);
+    saveHardList();
     updateHardButton();
     return;
   }
@@ -399,6 +482,55 @@ exportHard.addEventListener("click", e => {
 
 /* 初始：嘗試讀取 manifest，並 render */
 loadVocabList().finally(()=>{ render(); updateHardButton(); });
+
+/* ===== 新增：開關中文顯示 ===== */
+toggleChineseBtn.addEventListener("click", e => {
+  e.stopPropagation();
+  showChinese = !showChinese;
+  toggleChineseBtn.classList.toggle("active", showChinese);
+  render();
+});
+
+/* ===== 新增：跳到指定單字 ===== */
+jumpBtn.addEventListener("click", e => {
+  e.stopPropagation();
+  const input = jumpInput.value.trim();
+  if(!input){
+    alert("請輸入單字編號（1～" + words.length + "）");
+    return;
+  }
+
+  const num = parseInt(input, 10);
+  if(isNaN(num) || num < 1 || num > words.length){
+    alert(`請輸入有效的編號（1～${words.length}）`);
+    return;
+  }
+
+  idx = num - 1;
+  revealed = false;
+  jumpInput.value = "";
+  render();
+});
+
+/* 按 Enter 鍵也能搜尋 */
+jumpInput.addEventListener("keypress", e => {
+  if(e.key === "Enter"){
+    jumpBtn.click();
+  }
+});
+
+/* ===== 新增：載入不熟單字表 ===== */
+loadHardVocab.addEventListener("click", e => {
+  e.stopPropagation();
+  if(!hardList.length){
+    alert("目前的不熟清單為空");
+    return;
+  }
+  words = JSON.parse(JSON.stringify(hardList)); // 深拷貝
+  idx = 0;
+  revealed = false;
+  render();
+});
 </script>
 </body>
 </html>
