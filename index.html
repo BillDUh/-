@@ -76,6 +76,18 @@ header h1{
 .fullscreen header,
 .fullscreen .controls,
 .fullscreen .adder{display:none;}
+
+/* 新增：不熟單字按鈕（右下） */
+.hard-btn{
+  position:absolute;right:14px;bottom:14px;
+  padding:8px 12px;border-radius:10px;
+  border:1px solid #ffd9cc;background:#fff6f0;
+  color:#d65a00;font-weight:800;cursor:pointer;
+  box-shadow:0 4px 12px rgba(214,90,0,.08);
+}
+
+/* 匯出按鈕顯示 count */
+#exportHard{min-width:160px;}
 </style>
 </head>
 
@@ -83,7 +95,7 @@ header h1{
 <div class="container" id="root">
 
 <header>
-  <h1>單字背誦工具（一次一字）</h1>
+  <h1>單字背誦工具</h1>
 </header>
 
 <div class="display" id="display">
@@ -91,11 +103,17 @@ header h1{
   <button class="icon-btn" id="fsBtn">⛶</button>
   <div class="word" id="word"></div>
   <div class="content hidden" id="content"></div>
+
+  <!-- 新增：加入不熟單字按鈕（右下） -->
+  <button class="hard-btn" id="addHardBtn" title="加入不熟單字">不熟 +</button>
 </div>
 
 <div class="controls">
   <button id="prev">上一個</button>
   <button id="next">下一個</button>
+
+  <!-- 新增：匯出不熟單字按鈕 -->
+  <button id="exportHard">匯出不熟單字 (0)</button>
 </div>
 
 <div class="adder">
@@ -132,11 +150,24 @@ const fileInput = document.getElementById("fileInput");
 const vocabSelect = document.getElementById("vocabSelect");
 const loadVocabBtn = document.getElementById("loadVocab"); // renamed from loadVocab
 
+// 新增：不熟單字按鈕與匯出按鈕
+const addHardBtn = document.getElementById("addHardBtn");
+const exportHard = document.getElementById("exportHard");
+
 /* ===== 狀態 ===== */
 let words = [];
 let idx = 0;
 let revealed = false;
 let fullscreen = false;
+
+/* ===== 不熟單字清單（儲存在 localStorage） ===== */
+let hardList = [];
+try{
+  hardList = JSON.parse(localStorage.getItem("hardList") || "[]");
+  if(!Array.isArray(hardList)) hardList = [];
+}catch{
+  hardList = [];
+}
 
 /* ===== 核心渲染 ===== */
 function render(){
@@ -165,6 +196,28 @@ function render(){
   });
 
   contentEl.classList.toggle("hidden", !revealed);
+  updateHardButton(); // 更新按鈕顯示（例如是否已在不熟清單）
+}
+
+/* ===== 更新不熟單字顯示（按鈕文字與匯出按鈕計數） ===== */
+function updateHardButton(){
+  const count = hardList.length || 0;
+  exportHard.textContent = `匯出不熟單字 (${count})`;
+
+  // 若目前單字已在不熟清單，顯示不同狀態
+  if(words.length){
+    const cur = words[idx];
+    const exists = hardList.some(h => h.word === cur.word);
+    addHardBtn.textContent = exists ? "已加入" : "不熟 +";
+    addHardBtn.disabled = exists;
+    addHardBtn.title = exists ? "此字已在不熟清單" : "加入不熟單字";
+    addHardBtn.style.opacity = exists ? 0.7 : 1;
+  }else{
+    addHardBtn.textContent = "不熟 +";
+    addHardBtn.disabled = false;
+    addHardBtn.title = "加入不熟單字";
+    addHardBtn.style.opacity = 1;
+  }
 }
 
 /* ===== 操作邏輯 ===== */
@@ -307,8 +360,45 @@ vocabSelect.onchange = async () => {
   // await loadVocabFile(vocabSelect.value);
 };
 
+/* ===== 不熟單字：加入與匯出 ===== */
+function saveHardList(){
+  localStorage.setItem("hardList", JSON.stringify(hardList));
+}
+
+addHardBtn.addEventListener("click", e => {
+  e.stopPropagation(); // 防止觸發 display 的點擊
+  if(!words.length) return alert("尚未載入任何單字");
+  const cur = words[idx];
+
+  // 以 word 欄位作為唯一鍵，避免重複
+  if(hardList.some(h => h.word === cur.word)){
+    updateHardButton();
+    return;
+  }
+
+  // 推入整個物件（可依需求只存部分欄位）
+  hardList.push(cur);
+  saveHardList();
+  updateHardButton();
+});
+
+/* 匯出不熟單字 JSON 檔 */
+exportHard.addEventListener("click", e => {
+  e.stopPropagation();
+  if(!hardList.length) return alert("不熟單字清單為空");
+  const blob = new Blob([JSON.stringify(hardList, null, 2)], {type: "application/json"});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = "hard_words.json";
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  URL.revokeObjectURL(url);
+});
+
 /* 初始：嘗試讀取 manifest，並 render */
-loadVocabList().finally(()=>render());
+loadVocabList().finally(()=>{ render(); updateHardButton(); });
 </script>
 </body>
 </html>
