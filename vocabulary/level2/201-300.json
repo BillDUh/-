@@ -1,0 +1,1331 @@
+[
+    {
+      "word": "couple",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "一對；夫妻；幾個",
+          "example_en": "A couple of friends came to visit.",
+          "example_zh": "幾個朋友來拜訪。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "結合；連接",
+          "example_en": "Success is coupled with hard work.",
+          "example_zh": "成功與努力密不可分。"
+        }
+      ]
+    },
+    {
+      "word": "courage",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "勇氣",
+          "example_en": "She showed great courage in danger.",
+          "example_zh": "她在危險中展現了極大的勇氣。"
+        }
+      ]
+    },
+    {
+      "word": "court",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "法院；球場；宮廷",
+          "example_en": "The case was heard in court.",
+          "example_zh": "這個案件在法院審理。"
+        }
+      ]
+    },
+    {
+      "word": "cowboy",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "牛仔",
+          "example_en": "The cowboy rode across the field.",
+          "example_zh": "牛仔騎馬穿越原野。"
+        }
+      ]
+    },
+    {
+      "word": "crayon",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "蠟筆",
+          "example_en": "The child drew with crayons.",
+          "example_zh": "孩子用蠟筆畫畫。"
+        }
+      ]
+    },
+    {
+      "word": "cream",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "奶油；乳霜",
+          "example_en": "She added cream to her coffee.",
+          "example_zh": "她在咖啡裡加了奶油。"
+        },
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "乳白色的；奶油色的",
+          "example_en": "He wore a cream shirt.",
+          "example_zh": "他穿了一件米白色的襯衫。"
+        }
+      ]
+    },
+    {
+      "word": "create",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "創造；製作",
+          "example_en": "Artists create new ideas.",
+          "example_zh": "藝術家創造新想法。"
+        }
+      ]
+    },
+    {
+      "word": "crime",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "犯罪；罪行",
+          "example_en": "Crime rates have decreased.",
+          "example_zh": "犯罪率下降了。"
+        }
+      ]
+    },
+    {
+      "word": "crisis",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "危機",
+          "example_en": "The company faced a financial crisis.",
+          "example_zh": "公司面臨財務危機。"
+        }
+      ]
+    },
+    {
+      "word": "crow",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "烏鴉",
+          "example_en": "A crow sat on the tree.",
+          "example_zh": "一隻烏鴉停在樹上。"
+        }
+      ]
+    },
+    {
+      "word": "crowd",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "人群；群眾",
+          "example_en": "A large crowd gathered outside.",
+          "example_zh": "一大群人聚集在外面。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "擠滿；群聚",
+          "example_en": "Fans crowded the stadium.",
+          "example_zh": "球迷擠滿了體育場。"
+        }
+      ]
+    },
+    {
+      "word": "cultural",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "文化的",
+          "example_en": "Cultural differences matter.",
+          "example_zh": "文化差異很重要。"
+        }
+      ]
+    },
+    {
+      "word": "culture",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "文化；培養",
+          "example_en": "Food is part of culture.",
+          "example_zh": "食物是文化的一部分。"
+        }
+      ]
+    },
+    {
+      "word": "cure",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "治療；療法",
+          "example_en": "There is no cure for the disease yet.",
+          "example_zh": "這種疾病目前尚無療法。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "治癒",
+          "example_en": "The medicine cured him.",
+          "example_zh": "藥物治癒了他。"
+        }
+      ]
+    },
+    {
+      "word": "curious",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "好奇的",
+          "example_en": "She is curious about science.",
+          "example_zh": "她對科學很好奇。"
+        }
+      ]
+    },
+    {
+      "word": "current",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "目前的；現行的",
+          "example_en": "The current situation is serious.",
+          "example_zh": "目前情況嚴重。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "水流；電流；趨勢",
+          "example_en": "The river current is strong.",
+          "example_zh": "河水流速很強。"
+        }
+      ]
+    },
+    {
+      "word": "curtain",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "窗簾；幕",
+          "example_en": "Close the curtain, please.",
+          "example_zh": "請把窗簾拉上。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "遮蔽；拉上簾幕",
+          "example_en": "The stage was curtained off.",
+          "example_zh": "舞台被幕簾遮住。"
+        }
+      ]
+    },
+    {
+      "word": "custom",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "習俗；慣例",
+          "example_en": "This is a local custom.",
+          "example_zh": "這是當地的習俗。"
+        }
+      ]
+    },
+    {
+      "word": "customer",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "顧客",
+          "example_en": "Customers waited in line.",
+          "example_zh": "顧客排隊等候。"
+        }
+      ]
+    },
+    {
+      "word": "cycle",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "循環；週期；腳踏車",
+          "example_en": "The water cycle is important.",
+          "example_zh": "水循環很重要。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "循環；騎腳踏車",
+          "example_en": "She cycles to work.",
+          "example_zh": "她騎腳踏車上班。"
+        }
+      ]
+    },
+    {
+      "word": "daily",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "每日的",
+          "example_en": "Daily exercise is healthy.",
+          "example_zh": "每日運動有益健康。"
+        },
+        {
+          "part_of_speech": "adv.",
+          "meaning_zh": "每天",
+          "example_en": "He exercises daily.",
+          "example_zh": "他每天運動。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "日報",
+          "example_en": "She reads the daily.",
+          "example_zh": "她閱讀日報。"
+        }
+      ]
+    },
+    {
+      "word": "damage",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "損害；破壞",
+          "example_en": "The storm caused damage.",
+          "example_zh": "暴風雨造成破壞。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "損壞",
+          "example_en": "The fire damaged the house.",
+          "example_zh": "火災損壞了房子。"
+        }
+      ]
+    },
+    {
+      "word": "dancer",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "舞者",
+          "example_en": "She is a ballet dancer.",
+          "example_zh": "她是芭蕾舞者。"
+        }
+      ]
+    },
+    {
+      "word": "danger",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "危險",
+          "example_en": "Smoking is a danger to health.",
+          "example_zh": "吸菸對健康有危險。"
+        }
+      ]
+    },
+    {
+      "word": "data",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "資料；數據",
+          "example_en": "The data is stored online.",
+          "example_zh": "資料儲存在網路上。"
+        }
+      ]
+    },
+    {
+      "word": "deaf",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "失聰的；聽不見的",
+          "example_en": "He is deaf in one ear.",
+          "example_zh": "他一邊耳朵失聰。"
+        }
+      ]
+    },
+    {
+      "word": "debate",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "辯論；討論",
+          "example_en": "They had a debate on the topic.",
+          "example_zh": "他們就此主題辯論。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "辯論；討論",
+          "example_en": "They debated the issue.",
+          "example_zh": "他們討論這個問題。"
+        }
+      ]
+    },
+    {
+      "word": "debt",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "債務",
+          "example_en": "He is in debt.",
+          "example_zh": "他負債。"
+        }
+      ]
+    },
+    {
+      "word": "decision",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "決定",
+          "example_en": "She made a quick decision.",
+          "example_zh": "她很快做出決定。"
+        }
+      ]
+    },
+    {
+      "word": "deer",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "鹿（單複數同形）",
+          "example_en": "A deer crossed the road.",
+          "example_zh": "一隻鹿穿越馬路。"
+        }
+      ]
+    },
+    {
+      "word": "degree",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "度數；學位；程度",
+          "example_en": "She earned a college degree.",
+          "example_zh": "她取得大學學位。"
+        }
+      ]
+    },
+    {
+      "word": "delay",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "延誤；延遲",
+          "example_en": "There was a delay in the flight.",
+          "example_zh": "航班延誤了。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "延遲",
+          "example_en": "They delayed the meeting.",
+          "example_zh": "他們延後了會議。"
+        }
+      ]
+    },
+    {
+      "word": "delicious",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "美味的",
+          "example_en": "The cake is delicious.",
+          "example_zh": "蛋糕很好吃。"
+        }
+      ]
+    },
+    {
+      "word": "deliver",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "遞送；發表；生產（嬰兒）",
+          "example_en": "The company delivers packages daily.",
+          "example_zh": "公司每天送貨。"
+        }
+      ]
+    },
+    {
+      "word": "delivery",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "遞送；交付",
+          "example_en": "Free delivery is available.",
+          "example_zh": "提供免費配送。"
+        }
+      ]
+    },
+    {
+      "word": "dentist",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "牙醫",
+          "example_en": "I have an appointment with the dentist.",
+          "example_zh": "我有牙醫預約。"
+        }
+      ]
+    },
+    {
+      "word": "deny",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "否認；拒絕",
+          "example_en": "He denied the accusation.",
+          "example_zh": "他否認指控。"
+        }
+      ]
+    },
+    {
+      "word": "department",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "部門；科系",
+          "example_en": "She works in the sales department.",
+          "example_zh": "她在銷售部門工作。"
+        }
+      ]
+    },
+    {
+      "word": "depend",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "依賴；取決於",
+          "example_en": "It depends on the weather.",
+          "example_zh": "這取決於天氣。"
+        }
+      ]
+    },
+    {
+      "word": "depth",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "深度；深處",
+          "example_en": "Measure the depth of the pool.",
+          "example_zh": "測量游泳池的深度。"
+        }
+      ]
+    },
+    {
+      "word": "describe",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "描述",
+          "example_en": "Describe the picture.",
+          "example_zh": "描述這張圖片。"
+        }
+      ]
+    },
+    {
+      "word": "description",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "描述；說明",
+          "example_en": "Read the job description carefully.",
+          "example_zh": "仔細閱讀工作說明。"
+        }
+      ]
+    },
+    {
+      "word": "desert",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "沙漠",
+          "example_en": "Camels live in the desert.",
+          "example_zh": "駱駝生活在沙漠中。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "遺棄；拋棄",
+          "example_en": "He deserted his post.",
+          "example_zh": "他擅離職守。"
+        }
+      ]
+    },
+    {
+      "word": "design",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "設計；圖樣",
+          "example_en": "I like the building's design.",
+          "example_zh": "我喜歡這棟建築的設計。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "設計",
+          "example_en": "She designs websites.",
+          "example_zh": "她設計網站。"
+        }
+      ]
+    },
+    {
+      "word": "detail",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "細節",
+          "example_en": "Pay attention to detail.",
+          "example_zh": "注意細節。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "詳細說明",
+          "example_en": "He detailed the plan.",
+          "example_zh": "他詳細說明計畫。"
+        }
+      ]
+    },
+    {
+      "word": "develop / development",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "發展；開發",
+          "example_en": "The city continues to develop.",
+          "example_zh": "城市持續發展。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "發展；成長",
+          "example_en": "Child development is important.",
+          "example_zh": "兒童發展很重要。"
+        }
+      ]
+    },
+    {
+      "word": "dial",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "刻度盤；轉盤",
+          "example_en": "Turn the dial to adjust volume.",
+          "example_zh": "轉動刻度盤調整音量。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "撥號",
+          "example_en": "Dial the number.",
+          "example_zh": "撥這個號碼。"
+        }
+      ]
+    },
+    {
+      "word": "dialogue",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "對話",
+          "example_en": "The movie has great dialogue.",
+          "example_zh": "這部電影的對話很精彩。"
+        }
+      ]
+    },
+    {
+      "word": "diamond",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "鑽石",
+          "example_en": "She wears a diamond ring.",
+          "example_zh": "她戴著鑽石戒指。"
+        }
+      ]
+    },
+    {
+      "word": "diary",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "日記",
+          "example_en": "She keeps a diary.",
+          "example_zh": "她寫日記。"
+        }
+      ]
+    },
+    {
+      "word": "diet",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "飲食；節食",
+          "example_en": "He follows a healthy diet.",
+          "example_zh": "他遵循健康飲食。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "節食",
+          "example_en": "She is dieting.",
+          "example_zh": "她正在節食。"
+        }
+      ]
+    },
+    {
+      "word": "difference",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "差異；不同",
+          "example_en": "There is a big difference.",
+          "example_zh": "差異很大。"
+        }
+      ]
+    },
+    {
+      "word": "difficulty",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "困難",
+          "example_en": "He has difficulty reading.",
+          "example_zh": "他閱讀有困難。"
+        }
+      ]
+    },
+    {
+      "word": "direct",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "直接的",
+          "example_en": "This is a direct route.",
+          "example_zh": "這是直接路線。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "指導；導演",
+          "example_en": "She directed the movie.",
+          "example_zh": "她導演了那部電影。"
+        },
+        {
+          "part_of_speech": "adv.",
+          "meaning_zh": "直接地",
+          "example_en": "Go direct to the office.",
+          "example_zh": "直接去辦公室。"
+        }
+      ]
+    },
+    {
+      "word": "direction",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "方向；指示",
+          "example_en": "Follow the directions.",
+          "example_zh": "按照指示。"
+        }
+      ]
+    },
+    {
+      "word": "director",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "導演；主管",
+          "example_en": "The director won an award.",
+          "example_zh": "導演獲獎了。"
+        }
+      ]
+    },
+    {
+      "word": "disagree / disagreement",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "不同意",
+          "example_en": "I disagree with you.",
+          "example_zh": "我不同意你。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "分歧；爭論",
+          "example_en": "They had a disagreement.",
+          "example_zh": "他們有分歧。"
+        }
+      ]
+    },
+    {
+      "word": "disappear",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "消失",
+          "example_en": "The sun disappeared behind clouds.",
+          "example_zh": "太陽消失在雲後。"
+        }
+      ]
+    },
+    {
+      "word": "discover",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "發現",
+          "example_en": "They discovered a new island.",
+          "example_zh": "他們發現了一座新島嶼。"
+        }
+      ]
+    },
+    {
+      "word": "discovery",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "發現",
+          "example_en": "The discovery changed history.",
+          "example_zh": "這項發現改變了歷史。"
+        }
+      ]
+    },
+    {
+      "word": "discuss",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "討論",
+          "example_en": "Let's discuss the plan.",
+          "example_zh": "來討論這個計畫。"
+        }
+      ]
+    },
+    {
+      "word": "discussion",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "討論",
+          "example_en": "The discussion lasted an hour.",
+          "example_zh": "討論持續了一小時。"
+        }
+      ]
+    },
+    {
+      "word": "disease",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "疾病",
+          "example_en": "The disease spreads quickly.",
+          "example_zh": "疾病迅速傳播。"
+        }
+      ]
+    },
+    {
+      "word": "display",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "展示；陳列",
+          "example_en": "The store has a window display.",
+          "example_zh": "商店有櫥窗展示。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "展示",
+          "example_en": "She displayed her artwork.",
+          "example_zh": "她展示了她的作品。"
+        }
+      ]
+    },
+    {
+      "word": "distance",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "距離",
+          "example_en": "The distance is short.",
+          "example_zh": "距離很短。"
+        }
+      ]
+    },
+    {
+      "word": "distant",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "遙遠的；疏遠的",
+          "example_en": "A distant star is visible.",
+          "example_zh": "遙遠的星星清晰可見。"
+        }
+      ]
+    },
+    {
+      "word": "divide",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "分開；分配",
+          "example_en": "Divide the cake equally.",
+          "example_zh": "把蛋糕平均分。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "分歧；界線",
+          "example_en": "A cultural divide exists.",
+          "example_zh": "存在文化分歧。"
+        }
+      ]
+    },
+    {
+      "word": "division",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "分割；部門",
+          "example_en": "The company has many divisions.",
+          "example_zh": "公司有許多部門。"
+        }
+      ]
+    },
+    {
+      "word": "domestic",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "國內的；家庭的",
+          "example_en": "Domestic flights are cheaper.",
+          "example_zh": "國內航班比較便宜。"
+        }
+      ]
+    },
+    {
+      "word": "dot",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "點；圓點",
+          "example_en": "Put a dot here.",
+          "example_zh": "在這裡畫個點。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "點綴；散布",
+          "example_en": "Stars dot the sky.",
+          "example_zh": "星星點綴夜空。"
+        }
+      ]
+    },
+    {
+      "word": "double",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "雙倍的",
+          "example_en": "He ordered a double room.",
+          "example_zh": "他訂了一間雙人房。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "加倍",
+          "example_en": "Sales doubled this year.",
+          "example_zh": "今年銷量加倍。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "兩倍；替身",
+          "example_en": "Pay double the price.",
+          "example_zh": "付兩倍價錢。"
+        },
+        {
+          "part_of_speech": "adv.",
+          "meaning_zh": "加倍地",
+          "example_en": "Work double hard.",
+          "example_zh": "加倍努力工作。"
+        }
+      ]
+    },
+    {
+      "word": "doubt",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "懷疑；疑問",
+          "example_en": "There is no doubt.",
+          "example_zh": "毫無疑問。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "懷疑",
+          "example_en": "I doubt his story.",
+          "example_zh": "我懷疑他的說法。"
+        }
+      ]
+    },
+    {
+      "word": "dove",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "鴿子",
+          "example_en": "A dove symbolizes peace.",
+          "example_zh": "鴿子象徵和平。"
+        }
+      ]
+    },
+    {
+      "word": "download",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "下載",
+          "example_en": "Download the file online.",
+          "example_zh": "從網路下載檔案。"
+        }
+      ]
+    },
+    {
+      "word": "downstairs",
+      "definitions": [
+        {
+          "part_of_speech": "adv.",
+          "meaning_zh": "在樓下",
+          "example_en": "He went downstairs.",
+          "example_zh": "他下樓了。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "樓下",
+          "example_en": "Downstairs is quiet.",
+          "example_zh": "樓下很安靜。"
+        },
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "樓下的",
+          "example_en": "The downstairs room is large.",
+          "example_zh": "樓下的房間很大。"
+        }
+      ]
+    },
+    {
+      "word": "dragon",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "龍",
+          "example_en": "The dragon appears in legends.",
+          "example_zh": "龍出現在傳說中。"
+        }
+      ]
+    },
+    {
+      "word": "drama",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "戲劇；戲劇性事件",
+          "example_en": "She enjoys watching drama.",
+          "example_zh": "她喜歡看戲劇。"
+        }
+      ]
+    },
+    {
+      "word": "drawer",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "抽屜",
+          "example_en": "The key is in the drawer.",
+          "example_zh": "鑰匙在抽屜裡。"
+        }
+      ]
+    },
+    {
+      "word": "drawing",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "圖畫；素描",
+          "example_en": "Her drawing is beautiful.",
+          "example_zh": "她的畫很漂亮。"
+        }
+      ]
+    },
+    {
+      "word": "drug",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "藥物；毒品",
+          "example_en": "The drug helps reduce pain.",
+          "example_zh": "這種藥能減輕疼痛。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "下藥",
+          "example_en": "The victim was drugged.",
+          "example_zh": "受害者被下藥。"
+        }
+      ]
+    },
+    {
+      "word": "dryer",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "烘乾機；吹風機",
+          "example_en": "Put clothes in the dryer.",
+          "example_zh": "把衣服放進烘乾機。"
+        }
+      ]
+    },
+    {
+      "word": "due",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "到期的；應得的",
+          "example_en": "The payment is due tomorrow.",
+          "example_zh": "付款明天到期。"
+        },
+        {
+          "part_of_speech": "adv.",
+          "meaning_zh": "因為；由於",
+          "example_en": "The delay was due to rain.",
+          "example_zh": "延誤是因為下雨。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "應付款項；會費",
+          "example_en": "Pay your dues.",
+          "example_zh": "繳交會費。"
+        }
+      ]
+    },
+    {
+      "word": "dull",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "無聊的；遲鈍的；暗淡的",
+          "example_en": "The lecture was dull.",
+          "example_zh": "演講很無聊。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "使遲鈍；使減弱",
+          "example_en": "Painkillers dull the pain.",
+          "example_zh": "止痛藥減輕疼痛。"
+        }
+      ]
+    },
+    {
+      "word": "duty",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "責任；職責；稅",
+          "example_en": "It is his duty to help.",
+          "example_zh": "幫助是他的責任。"
+        }
+      ]
+    },
+    {
+      "word": "eagle",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "老鷹",
+          "example_en": "The eagle flew high.",
+          "example_zh": "老鷹飛得很高。"
+        }
+      ]
+    },
+    {
+      "word": "earn",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "賺得；獲得",
+          "example_en": "He earns a good salary.",
+          "example_zh": "他賺得不錯的薪水。"
+        }
+      ]
+    },
+    {
+      "word": "earring(s)",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "耳環",
+          "example_en": "She wore gold earrings.",
+          "example_zh": "她戴著金耳環。"
+        }
+      ]
+    },
+    {
+      "word": "earthquake",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "地震",
+          "example_en": "The earthquake shook the city.",
+          "example_zh": "地震撼動了城市。"
+        }
+      ]
+    },
+    {
+      "word": "ease",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "輕鬆；舒適",
+          "example_en": "He spoke with ease.",
+          "example_zh": "他說話很自在。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "減輕；緩和",
+          "example_en": "This will ease your pain.",
+          "example_zh": "這能減輕你的疼痛。"
+        }
+      ]
+    },
+    {
+      "word": "eastern",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "東方的；東部的",
+          "example_en": "Eastern culture is rich.",
+          "example_zh": "東方文化很豐富。"
+        }
+      ]
+    },
+    {
+      "word": "edge",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "邊緣；優勢",
+          "example_en": "Stand near the edge.",
+          "example_zh": "站在邊緣附近。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "慢慢移動",
+          "example_en": "He edged closer.",
+          "example_zh": "他慢慢靠近。"
+        }
+      ]
+    },
+    {
+      "word": "edition",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "版本；版次",
+          "example_en": "This is the latest edition.",
+          "example_zh": "這是最新版本。"
+        }
+      ]
+    },
+    {
+      "word": "education",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "教育",
+          "example_en": "Education is important.",
+          "example_zh": "教育很重要。"
+        }
+      ]
+    },
+    {
+      "word": "effect",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "影響；效果",
+          "example_en": "The medicine had an effect.",
+          "example_zh": "藥物產生了效果。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "造成；實現",
+          "example_en": "They effected change.",
+          "example_zh": "他們促成改變。"
+        }
+      ]
+    },
+    {
+      "word": "effective",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "有效的",
+          "example_en": "This method is effective.",
+          "example_zh": "這個方法有效。"
+        }
+      ]
+    },
+    {
+      "word": "effort",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "努力",
+          "example_en": "She made an effort.",
+          "example_zh": "她付出了努力。"
+        }
+      ]
+    },
+    {
+      "word": "elder",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "年長的",
+          "example_en": "Respect elder people.",
+          "example_zh": "尊敬年長者。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "長者",
+          "example_en": "The elders made a decision.",
+          "example_zh": "長者做出決定。"
+        }
+      ]
+    },
+    {
+      "word": "electric",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "電的；電動的",
+          "example_en": "An electric car is quiet.",
+          "example_zh": "電動車很安靜。"
+        }
+      ]
+    },
+    {
+      "word": "electrical",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "電力的；與電有關的",
+          "example_en": "Electrical equipment is expensive.",
+          "example_zh": "電器設備很昂貴。"
+        }
+      ]
+    },
+    {
+      "word": "emotion",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "情感；情緒",
+          "example_en": "He showed strong emotion.",
+          "example_zh": "他表現出強烈的情緒。"
+        }
+      ]
+    }
+  ]
+  

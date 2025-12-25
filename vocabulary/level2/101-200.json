@@ -1,0 +1,1367 @@
+[
+    {
+      "word": "boil",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "煮沸；沸騰",
+          "example_en": "Please boil the water before cooking.",
+          "example_zh": "煮飯前請把水煮開。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "沸騰；（皮膚上的）膿腫",
+          "example_en": "The pot reached a boil quickly.",
+          "example_zh": "鍋子很快就沸騰了。"
+        }
+      ]
+    },
+    {
+      "word": "bone",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "骨頭",
+          "example_en": "The dog chewed on a bone.",
+          "example_zh": "狗在啃一塊骨頭。"
+        }
+      ]
+    },
+    {
+      "word": "bookstore",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "書店",
+          "example_en": "She bought the novel at the bookstore.",
+          "example_zh": "她在書店買了那本小說。"
+        }
+      ]
+    },
+    {
+      "word": "border",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "邊界；邊緣",
+          "example_en": "They crossed the border into another country.",
+          "example_zh": "他們越過邊界進入另一個國家。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "與…接壤；圍繞",
+          "example_en": "The garden is bordered by a low fence.",
+          "example_zh": "花園被矮柵欄圍著。"
+        }
+      ]
+    },
+    {
+      "word": "bother",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "打擾；煩擾",
+          "example_en": "Sorry to bother you with this question.",
+          "example_zh": "抱歉用這個問題打擾你。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "麻煩；苦惱",
+          "example_en": "Fixing the car was a real bother.",
+          "example_zh": "修車真是一件麻煩事。"
+        }
+      ]
+    },
+    {
+      "word": "brain",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "大腦；智力",
+          "example_en": "The brain controls the body's functions.",
+          "example_zh": "大腦控制身體的功能。"
+        }
+      ]
+    },
+    {
+      "word": "branch",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "樹枝；分支；分店",
+          "example_en": "She visited the bank's local branch.",
+          "example_zh": "她去當地的銀行分行辦事。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "分支；岔出",
+          "example_en": "The road branches into two paths.",
+          "example_zh": "那條路分成兩條小徑。"
+        }
+      ]
+    },
+    {
+      "word": "brand",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "品牌；商標",
+          "example_en": "Which brand do you prefer?",
+          "example_zh": "你偏好哪個品牌？"
+        }
+      ]
+    },
+    {
+      "word": "brief",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "短暫的；簡短的",
+          "example_en": "Keep your answer brief.",
+          "example_zh": "請簡短回答。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "摘要；簡報",
+          "example_en": "He prepared a brief for the meeting.",
+          "example_zh": "他為會議準備了簡報。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "向…簡短說明（常用於 brief someone）",
+          "example_en": "Please brief me on the plan.",
+          "example_zh": "請簡要向我說明計畫。"
+        }
+      ]
+    },
+    {
+      "word": "brilliant",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "光輝的；聰明的；出色的",
+          "example_en": "She had a brilliant idea.",
+          "example_zh": "她有個很棒的點子。"
+        }
+      ]
+    },
+    {
+      "word": "broad",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "寬廣的；廣泛的",
+          "example_en": "They took a broad view of the issue.",
+          "example_zh": "他們對這個問題持寬廣的看法。"
+        }
+      ]
+    },
+    {
+      "word": "brush",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "刷子；畫筆；輕碰",
+          "example_en": "Get a brush to paint the frame.",
+          "example_zh": "拿把刷子來粉刷框架。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "刷；輕擦；掠過",
+          "example_en": "Brush your teeth twice a day.",
+          "example_zh": "一天刷兩次牙。"
+        }
+      ]
+    },
+    {
+      "word": "building",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "建築物；樓房",
+          "example_en": "The new building is almost finished.",
+          "example_zh": "新建築幾乎完工了。"
+        }
+      ]
+    },
+    {
+      "word": "bun",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "圓形小麵包；髮髻",
+          "example_en": "She ate a sweet bun for breakfast.",
+          "example_zh": "她早餐吃了一個甜麵包。"
+        }
+      ]
+    },
+    {
+      "word": "burden",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "負擔；責任",
+          "example_en": "The heavy load was a burden for them.",
+          "example_zh": "那沉重的負荷對他們來說是一種負擔。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "使負擔；加重壓力",
+          "example_en": "Don't burden him with your problems.",
+          "example_zh": "不要把你的問題加諸他身上。"
+        }
+      ]
+    },
+    {
+      "word": "burn",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "燃燒；燒傷；燒毀",
+          "example_en": "Be careful not to burn your hand.",
+          "example_zh": "小心別燒到手。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "燒傷；燒痕",
+          "example_en": "He has a small burn on his arm.",
+          "example_zh": "他的手臂上有個小燒傷。"
+        }
+      ]
+    },
+    {
+      "word": "burst",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "爆裂；突然發生",
+          "example_en": "The balloon burst with a loud pop.",
+          "example_zh": "氣球啪的一聲爆了。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "爆裂；迸發",
+          "example_en": "A sudden burst of applause followed.",
+          "example_zh": "接著是一陣熱烈的掌聲。"
+        }
+      ]
+    },
+    {
+      "word": "businessman",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "商人；企業家（男性）",
+          "example_en": "The businessman traveled frequently for work.",
+          "example_zh": "那位商人常因公出差。"
+        }
+      ]
+    },
+    {
+      "word": "cabbage",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "高麗菜；捲心菜",
+          "example_en": "She made a salad with cabbage.",
+          "example_zh": "她用高麗菜做了一道沙拉。"
+        }
+      ]
+    },
+    {
+      "word": "café/cafe",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "咖啡館；小餐館",
+          "example_en": "Let's meet at the café this afternoon.",
+          "example_zh": "我們今天下午在咖啡館見面吧。"
+        }
+      ]
+    },
+    {
+      "word": "cage",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "籠子；牢籠",
+          "example_en": "The bird was kept in a cage.",
+          "example_zh": "那隻鳥被關在籠子裡。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "關入籠中；囚禁",
+          "example_en": "They caged the injured animal temporarily.",
+          "example_zh": "他們臨時把受傷的動物關進籠子。"
+        }
+      ]
+    },
+    {
+      "word": "calendar",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "日曆；行事曆",
+          "example_en": "Mark the event on your calendar.",
+          "example_zh": "把活動標在你的日曆上。"
+        }
+      ]
+    },
+    {
+      "word": "calm",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "使平靜；平息",
+          "example_en": "She tried to calm the crying baby.",
+          "example_zh": "她試著安撫哭泣的嬰兒。"
+        },
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "平靜的；冷靜的",
+          "example_en": "The sea was calm today.",
+          "example_zh": "今天海面平靜。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "平靜；冷靜狀態",
+          "example_en": "After the storm there was a calm.",
+          "example_zh": "風暴過後出現了平靜。"
+        }
+      ]
+    },
+    {
+      "word": "camel",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "駱駝",
+          "example_en": "Camels can survive long periods without water.",
+          "example_zh": "駱駝能在長時間缺水下存活。"
+        }
+      ]
+    },
+    {
+      "word": "cancel",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "取消；作廢",
+          "example_en": "They had to cancel the meeting due to rain.",
+          "example_zh": "因為下雨他們不得不取消會議。"
+        }
+      ]
+    },
+    {
+      "word": "cancer",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "癌症；惡性腫瘤",
+          "example_en": "Early detection improves cancer treatment outcomes.",
+          "example_zh": "早期發現能改善癌症治療效果。"
+        }
+      ]
+    },
+    {
+      "word": "candle",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "蠟燭；燭光",
+          "example_en": "She lit a candle for the ceremony.",
+          "example_zh": "她為儀式點燃了一支蠟燭。"
+        }
+      ]
+    },
+    {
+      "word": "capital",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "首都；資本；大寫字母",
+          "example_en": "Tokyo is the capital of Japan.",
+          "example_zh": "東京是日本的首都。"
+        },
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "主要的；大寫的（字母）",
+          "example_en": "Please write your name in capital letters.",
+          "example_zh": "請用大寫字母寫你的名字。"
+        }
+      ]
+    },
+    {
+      "word": "cartoon",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "漫畫；卡通片",
+          "example_en": "He watched cartoons on Saturday morning.",
+          "example_zh": "他星期六早上看卡通。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "把…畫成漫畫（較少用）",
+          "example_en": "The artist cartooned the politician in the paper.",
+          "example_zh": "那位藝術家在報紙上把政治人物畫成漫畫形象。"
+        }
+      ]
+    },
+    {
+      "word": "cash",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "現金",
+          "example_en": "Do you have cash to pay?",
+          "example_zh": "你有現金付款嗎？"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "把（支票等）兌現；把…換成現金",
+          "example_en": "She cashed the check at the bank.",
+          "example_zh": "她在銀行把支票兌現。"
+        }
+      ]
+    },
+    {
+      "word": "castle",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "城堡；堡壘",
+          "example_en": "They toured a medieval castle.",
+          "example_zh": "他們參觀了一座中世紀城堡。"
+        }
+      ]
+    },
+    {
+      "word": "cause",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "原因；理由；事業（為某個目標努力）",
+          "example_en": "She supports a good cause.",
+          "example_zh": "她支持一個值得的事業。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "導致；引起",
+          "example_en": "The storm caused widespread damage.",
+          "example_zh": "風暴造成廣泛的破壞。"
+        }
+      ]
+    },
+    {
+      "word": "ceiling",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "天花板；上限",
+          "example_en": "The painting is on the ceiling.",
+          "example_zh": "畫作在天花板上。"
+        }
+      ]
+    },
+    {
+      "word": "cell",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "細胞；牢房；小房間",
+          "example_en": "Scientists studied the cell under a microscope.",
+          "example_zh": "科學家在顯微鏡下研究細胞。"
+        }
+      ]
+    },
+    {
+      "word": "centimeter",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "公分；厘米",
+          "example_en": "The table is 120 centimeters long.",
+          "example_zh": "這張桌子長120公分。"
+        }
+      ]
+    },
+    {
+      "word": "central",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "中央的；重要的；核心的",
+          "example_en": "The central idea is very clear.",
+          "example_zh": "核心概念非常清楚。"
+        }
+      ]
+    },
+    {
+      "word": "century",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "世紀；一百年",
+          "example_en": "The building is over a century old.",
+          "example_zh": "這棟建築已有一百多年歷史。"
+        }
+      ]
+    },
+    {
+      "word": "cereal",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "穀類食品；早餐麥片",
+          "example_en": "He eats cereal with milk every morning.",
+          "example_zh": "他每天早上吃加牛奶的穀片。"
+        }
+      ]
+    },
+    {
+      "word": "chain",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "鏈條；連鎖（店）",
+          "example_en": "The restaurant is part of a large chain.",
+          "example_zh": "那家餐廳是大型連鎖的一部分。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "用鏈條拴住；鏈接",
+          "example_en": "They chained the bike to the pole.",
+          "example_zh": "他們把腳踏車用鏈條鎖在電桿上。"
+        }
+      ]
+    },
+    {
+      "word": "chalk",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "粉筆；白堊",
+          "example_en": "Write the answer on the board with chalk.",
+          "example_zh": "用粉筆在板上寫答案。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "用粉筆寫；歸咎於（口語）",
+          "example_en": "He chalked the loss up to bad luck.",
+          "example_zh": "他把失敗歸因於運氣不好。"
+        }
+      ]
+    },
+    {
+      "word": "challenge",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "挑戰；難題",
+          "example_en": "Climbing the mountain was a real challenge.",
+          "example_zh": "爬那座山真是一項挑戰。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "挑戰；質疑",
+          "example_en": "She challenged his assumptions.",
+          "example_zh": "她質疑他的假設。"
+        }
+      ]
+    },
+    {
+      "word": "channel",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "頻道；海峽；通道",
+          "example_en": "Turn to channel five for the news.",
+          "example_zh": "換到第五頻道看新聞。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "引導；開導；傳送（資訊）",
+          "example_en": "They channeled donations to the charity.",
+          "example_zh": "他們把捐款引導到慈善機構。"
+        }
+      ]
+    },
+    {
+      "word": "chapter",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "章節；時期",
+          "example_en": "Read chapter three for homework.",
+          "example_zh": "把第三章當作作業閱讀。"
+        }
+      ]
+    },
+    {
+      "word": "character",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "性格；角色；字元",
+          "example_en": "The main character is very brave.",
+          "example_zh": "主角非常勇敢。"
+        }
+      ]
+    },
+    {
+      "word": "charge",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "費用；指控；責任",
+          "example_en": "They added a small charge for delivery.",
+          "example_zh": "他們加收少量運費。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "收費；指控；充電；衝鋒",
+          "example_en": "They charged my card for the purchase.",
+          "example_zh": "他們向我的卡片收取了購買費用。"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "圖表；海圖",
+          "example_en": "The chart shows sales trends.",
+          "example_zh": "圖表顯示銷售趨勢。"
+        }
+      ]
+    },
+    {
+      "word": "chase",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "追逐；追求",
+          "example_en": "The police chased the thief.",
+          "example_zh": "警察追趕小偷。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "追逐；追求",
+          "example_en": "They went on a chase through the city.",
+          "example_zh": "他們在城市裡展開追逐。"
+        }
+      ]
+    },
+    {
+      "word": "cheat",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "作弊；欺騙",
+          "example_en": "Don't cheat on the test.",
+          "example_zh": "考試不要作弊。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "騙子；作弊行為",
+          "example_en": "He was labeled a cheat.",
+          "example_zh": "他被貼上騙子的標籤。"
+        }
+      ]
+    },
+    {
+      "word": "cheer",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "歡呼；鼓舞",
+          "example_en": "The crowd cheered loudly.",
+          "example_zh": "群眾大聲歡呼。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "歡呼聲；喝采",
+          "example_en": "A cheer went up when she scored.",
+          "example_zh": "她得分時爆發出歡呼聲。"
+        }
+      ]
+    },
+    {
+      "word": "chemical",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "化學的；化學製的",
+          "example_en": "They studied chemical reactions in class.",
+          "example_zh": "他們在課堂上研究化學反應。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "化學物質；化學製品",
+          "example_en": "Some chemicals can be harmful.",
+          "example_zh": "有些化學物質可能有害。"
+        }
+      ]
+    },
+    {
+      "word": "chess",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "國際象棋",
+          "example_en": "They played chess after school.",
+          "example_zh": "放學後他們下象棋。"
+        }
+      ]
+    },
+    {
+      "word": "chief",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "主要的；首要的",
+          "example_en": "His chief concern is safety.",
+          "example_zh": "他最關心的是安全。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "領袖；首領；主管",
+          "example_en": "The chief welcomed the guests.",
+          "example_zh": "首領歡迎了來賓。"
+        }
+      ]
+    },
+    {
+      "word": "childhood",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "童年",
+          "example_en": "She has fond memories of her childhood.",
+          "example_zh": "她對童年有美好的回憶。"
+        }
+      ]
+    },
+    {
+      "word": "childish",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "孩子氣的；幼稚的",
+          "example_en": "His reaction was childish.",
+          "example_zh": "他的反應很孩子氣。"
+        }
+      ]
+    },
+    {
+      "word": "china",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "中國；瓷器（常用複數形式指瓷器）",
+          "example_en": "She collects antique china.",
+          "example_zh": "她收藏古董瓷器。"
+        }
+      ]
+    },
+    {
+      "word": "chopstick(s)",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "筷子",
+          "example_en": "Use chopsticks to eat the noodles.",
+          "example_zh": "用筷子吃麵。"
+        }
+      ]
+    },
+    {
+      "word": "claim",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "聲稱；主張；索取",
+          "example_en": "He claims he saw the movie.",
+          "example_zh": "他聲稱看過那部電影。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "聲明；主張；索賠",
+          "example_en": "Her claim was supported by evidence.",
+          "example_zh": "她的主張有證據支持。"
+        }
+      ]
+    },
+    {
+      "word": "clap",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "拍手；鼓掌",
+          "example_en": "The audience clapped after the performance.",
+          "example_zh": "表演結束後觀眾鼓掌。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "拍手聲；撲通聲",
+          "example_en": "A loud clap echoed in the hall.",
+          "example_zh": "大廳裡回響著響亮的拍手聲。"
+        }
+      ]
+    },
+    {
+      "word": "classic",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "經典的；一流的",
+          "example_en": "This is a classic novel.",
+          "example_zh": "這是一本經典小說。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "經典作品；典範",
+          "example_en": "The film became a classic.",
+          "example_zh": "這部電影成為經典。"
+        }
+      ]
+    },
+    {
+      "word": "classical",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "古典的；古典音樂的",
+          "example_en": "She studies classical piano.",
+          "example_zh": "她學習古典鋼琴。"
+        }
+      ]
+    },
+    {
+      "word": "classmate",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "同班同學",
+          "example_en": "My classmate helped me with homework.",
+          "example_zh": "我的同班同學幫我做作業。"
+        }
+      ]
+    },
+    {
+      "word": "clever",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "聰明的；靈巧的",
+          "example_en": "He's very clever at solving puzzles.",
+          "example_zh": "他很會解謎題。"
+        }
+      ]
+    },
+    {
+      "word": "click",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "按（滑鼠）；發出喀嚓聲",
+          "example_en": "Click the link to open it.",
+          "example_zh": "點擊連結以打開它。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "喀嚓聲；點擊聲",
+          "example_en": "I heard a click outside the door.",
+          "example_zh": "我聽到門外有喀嚓聲。"
+        }
+      ]
+    },
+    {
+      "word": "climate",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "氣候；氛圍",
+          "example_en": "Climate change affects everyone.",
+          "example_zh": "氣候變遷影響所有人。"
+        }
+      ]
+    },
+    {
+      "word": "cloth",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "布；布料",
+          "example_en": "Use a clean cloth to wipe the table.",
+          "example_zh": "用乾淨的布擦拭桌子。"
+        }
+      ]
+    },
+    {
+      "word": "clothing",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "服裝；衣物（總稱）",
+          "example_en": "Donate old clothing to charity.",
+          "example_zh": "把舊衣捐給慈善機構。"
+        }
+      ]
+    },
+    {
+      "word": "cloudy",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "多雲的；模糊的",
+          "example_en": "The sky is cloudy today.",
+          "example_zh": "今天多雲。"
+        }
+      ]
+    },
+    {
+      "word": "coal",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "煤；煤炭",
+          "example_en": "Coal was used to heat the house.",
+          "example_zh": "煤被用來取暖。"
+        }
+      ]
+    },
+    {
+      "word": "coast",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "海岸；沿海地帶",
+          "example_en": "They drove along the coast.",
+          "example_zh": "他們沿著海岸開車。"
+        }
+      ]
+    },
+    {
+      "word": "cockroach/roach",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "蟑螂",
+          "example_en": "A cockroach ran across the kitchen floor.",
+          "example_zh": "一隻蟑螂跑過廚房地板。"
+        }
+      ]
+    },
+    {
+      "word": "cocoa",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "可可；可可粉；熱可可飲",
+          "example_en": "She drank a cup of hot cocoa.",
+          "example_zh": "她喝了一杯熱可可。"
+        }
+      ]
+    },
+    {
+      "word": "coin",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "硬幣；金屬貨幣",
+          "example_en": "He found a rare coin in the box.",
+          "example_zh": "他在盒子裡找到一枚稀有硬幣。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "鑄造（硬幣）；創造新詞或片語",
+          "example_en": "They coined a new term for the trend.",
+          "example_zh": "他們為這個趨勢創造了一個新詞。"
+        }
+      ]
+    },
+    {
+      "word": "cola/Coke",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "可樂；可口可樂（Coke 為商標）",
+          "example_en": "He drank a cola with his meal.",
+          "example_zh": "他用餐時喝了一杯可樂。"
+        }
+      ]
+    },
+    {
+      "word": "college",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "大學；學院",
+          "example_en": "She plans to attend college next year.",
+          "example_zh": "她計畫明年上大學。"
+        }
+      ]
+    },
+    {
+      "word": "comb",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "梳子",
+          "example_en": "Use a comb to tidy your hair.",
+          "example_zh": "用梳子整理頭髮。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "梳理；徹底搜尋（某地）",
+          "example_en": "They combed the beach for shells.",
+          "example_zh": "他們在海灘上搜尋貝殼。"
+        }
+      ]
+    },
+    {
+      "word": "combine",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "結合；合併",
+          "example_en": "Combine the ingredients in a bowl.",
+          "example_zh": "把材料放入碗中混合。"
+        }
+      ]
+    },
+    {
+      "word": "comic(s)",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "滑稽的；喜劇的",
+          "example_en": "He has a comic sense of timing.",
+          "example_zh": "他有滑稽的節奏感。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "漫畫（書）；喜劇演員",
+          "example_en": "She reads comics on weekends.",
+          "example_zh": "她週末看漫畫。"
+        }
+      ]
+    },
+    {
+      "word": "command",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "命令；指揮權",
+          "example_en": "The captain gave a command to sail.",
+          "example_zh": "隊長下令起航。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "命令；指揮；控制",
+          "example_en": "He can command a large team.",
+          "example_zh": "他能指揮一支大型團隊。"
+        }
+      ]
+    },
+    {
+      "word": "commercial",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "商業的；營利性的",
+          "example_en": "They launched a commercial product.",
+          "example_zh": "他們推出一項商業產品。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "電視或廣播廣告",
+          "example_en": "The commercial break is five minutes long.",
+          "example_zh": "廣告時間長五分鐘。"
+        }
+      ]
+    },
+    {
+      "word": "company",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "公司；陪伴；同伴",
+          "example_en": "She works for a software company.",
+          "example_zh": "她在一家軟體公司工作。"
+        }
+      ]
+    },
+    {
+      "word": "compare",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "比較；比喻為",
+          "example_en": "Compare the two products before buying.",
+          "example_zh": "購買前比較這兩種產品。"
+        }
+      ]
+    },
+    {
+      "word": "complete",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "完整的；完全的",
+          "example_en": "He gave a complete answer.",
+          "example_zh": "他給了完整的答案。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "完成；使完滿",
+          "example_en": "Please complete the form.",
+          "example_zh": "請填寫表格。"
+        }
+      ]
+    },
+    {
+      "word": "complex",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "複雜的；難懂的",
+          "example_en": "The instructions are complex.",
+          "example_zh": "說明很複雜。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "綜合設施；情結（心理）",
+          "example_en": "The sports complex has many facilities.",
+          "example_zh": "運動綜合體有很多設施。"
+        }
+      ]
+    },
+    {
+      "word": "concern",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "關心；擔憂；公司（正式）",
+          "example_en": "Her main concern is the students' safety.",
+          "example_zh": "她主要關心學生的安全。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "關係到；使擔心",
+          "example_en": "This news concerns everyone.",
+          "example_zh": "這個消息與每個人有關。"
+        }
+      ]
+    },
+    {
+      "word": "conclude",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "結束；推斷出；達成（協議）",
+          "example_en": "We concluded the meeting at noon.",
+          "example_zh": "我們在中午結束會議。"
+        }
+      ]
+    },
+    {
+      "word": "condition",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "條件；狀況；情況",
+          "example_en": "The car is in good condition.",
+          "example_zh": "這輛車狀況良好。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "調整；以…為條件；訓練（使習慣）",
+          "example_en": "They conditioned the team to work under pressure.",
+          "example_zh": "他們訓練團隊在壓力下工作。"
+        }
+      ]
+    },
+    {
+      "word": "confident",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "有信心的；自信的",
+          "example_en": "She is confident about the exam.",
+          "example_zh": "她對考試很有信心。"
+        }
+      ]
+    },
+    {
+      "word": "conflict",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "衝突；爭執；矛盾",
+          "example_en": "There was a conflict between the two groups.",
+          "example_zh": "那兩個團體之間發生衝突。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "衝突；抵觸",
+          "example_en": "His actions conflict with his words.",
+          "example_zh": "他的行為與他的話相矛盾。"
+        }
+      ]
+    },
+    {
+      "word": "congratulation(s)",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "祝賀；恭喜（通常用複數）",
+          "example_en": "Congratulations on your promotion!",
+          "example_zh": "恭喜你升職！"
+        }
+      ]
+    },
+    {
+      "word": "connection",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "連接；關係；聯繫",
+          "example_en": "She has a strong connection to her hometown.",
+          "example_zh": "她與家鄉有很深的連結。"
+        }
+      ]
+    },
+    {
+      "word": "consider",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "考慮；認為",
+          "example_en": "Consider all options before deciding.",
+          "example_zh": "在決定前考慮所有選項。"
+        }
+      ]
+    },
+    {
+      "word": "consideration",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "考慮；體諒；報酬",
+          "example_en": "Take his feelings into consideration.",
+          "example_zh": "把他的感受納入考量。"
+        }
+      ]
+    },
+    {
+      "word": "contact",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "接觸；聯絡；關係",
+          "example_en": "Keep in contact with your classmates.",
+          "example_zh": "與你的同學保持聯絡。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "聯繫；接觸",
+          "example_en": "Contact me if you have questions.",
+          "example_zh": "若有問題請聯絡我。"
+        }
+      ]
+    },
+    {
+      "word": "contain",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "包含；容納；控制（情緒、疾病等）",
+          "example_en": "The box contains old letters.",
+          "example_zh": "這個盒子裡裝著舊信件。"
+        }
+      ]
+    },
+    {
+      "word": "continue",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "繼續；持續",
+          "example_en": "Please continue speaking.",
+          "example_zh": "請繼續說。"
+        }
+      ]
+    },
+    {
+      "word": "contract",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "合約；契約",
+          "example_en": "They signed the contract yesterday.",
+          "example_zh": "他們昨天簽了合約。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "收縮；感染（疾病）；訂約",
+          "example_en": "Metals contract when cooled.",
+          "example_zh": "金屬冷卻時會收縮。"
+        }
+      ]
+    },
+    {
+      "word": "control",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "控制；管理；操縱",
+          "example_en": "She has control over the project.",
+          "example_zh": "她掌管這個計畫。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "控制；抑制",
+          "example_en": "He tried to control his emotions.",
+          "example_zh": "他試著控制情緒。"
+        }
+      ]
+    },
+    {
+      "word": "conversation",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "會話；談話",
+          "example_en": "We had a long conversation last night.",
+          "example_zh": "我們昨晚有長時間的談話。"
+        }
+      ]
+    },
+    {
+      "word": "corn",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "玉米；穀物（依地區用法）",
+          "example_en": "She bought fresh corn at the market.",
+          "example_zh": "她在市場買了新鮮玉米。"
+        }
+      ]
+    },
+    {
+      "word": "countryside",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "鄉間；農村地區",
+          "example_en": "They enjoyed a weekend in the countryside.",
+          "example_zh": "他們享受了一個在鄉間的週末。"
+        }
+      ]
+    }
+  ]
+  

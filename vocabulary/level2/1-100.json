@@ -1,0 +1,1319 @@
+[
+    {
+      "word": "absence",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "缺席；缺乏",
+          "example_en": "Her absence was noted at the meeting.",
+          "example_zh": "會議上有人注意到她的缺席。"
+        }
+      ]
+    },
+    {
+      "word": "absent",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "缺席的；不在的",
+          "example_en": "He was absent from school yesterday.",
+          "example_zh": "他昨天沒到校。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "缺席（常用作形容詞，但可視為動詞短語）",
+          "example_en": "She absented herself from the event.",
+          "example_zh": "她未出席那項活動。"
+        }
+      ]
+    },
+    {
+      "word": "accept",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "接受；承認",
+          "example_en": "He accepted the job offer.",
+          "example_zh": "他接受了那份工作邀約。"
+        }
+      ]
+    },
+    {
+      "word": "accident",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "事故；意外事件",
+          "example_en": "The car accident blocked the road.",
+          "example_zh": "車禍堵住了道路。"
+        }
+      ]
+    },
+    {
+      "word": "account",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "帳戶；描述；理由",
+          "example_en": "I opened a new bank account.",
+          "example_zh": "我開了一個新銀行帳戶。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "解釋；認為",
+          "example_en": "She accounted for the missing money.",
+          "example_zh": "她說明了那筆不見的錢。"
+        }
+      ]
+    },
+    {
+      "word": "active",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "積極的；活躍的",
+          "example_en": "He leads an active lifestyle.",
+          "example_zh": "他過著積極活躍的生活。"
+        }
+      ]
+    },
+    {
+      "word": "activity",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "活動；行動",
+          "example_en": "There are many activities at the summer camp.",
+          "example_zh": "夏令營有許多活動。"
+        }
+      ]
+    },
+    {
+      "word": "actual",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "實際的；真實的",
+          "example_en": "The actual cost was higher than expected.",
+          "example_zh": "實際費用比預期高。"
+        }
+      ]
+    },
+    {
+      "word": "addition",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "增加；加法；附加物",
+          "example_en": "In addition to that, we need more time.",
+          "example_zh": "除此之外，我們還需要更多時間。"
+        }
+      ]
+    },
+    {
+      "word": "address",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "寫地址；向…發表演說；處理（問題）",
+          "example_en": "Please address the package to me.",
+          "example_zh": "請把包裹寄到我這裡。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "地址；演說",
+          "example_en": "He gave an address to the graduates.",
+          "example_zh": "他向畢業生發表了演說。"
+        }
+      ]
+    },
+    {
+      "word": "admit",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "承認；允許進入",
+          "example_en": "He admitted his mistake.",
+          "example_zh": "他承認了自己的錯誤。"
+        }
+      ]
+    },
+    {
+      "word": "adult",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "成人",
+          "example_en": "Only adults may enter this area.",
+          "example_zh": "只有成年人可以進入此區域。"
+        },
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "成年的；成人的",
+          "example_en": "This is an adult book.",
+          "example_zh": "這是一本成人用書。"
+        }
+      ]
+    },
+    {
+      "word": "advance",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "前進；預付款；進展",
+          "example_en": "They received an advance on their salary.",
+          "example_zh": "他們領到薪水的預支。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "促進；前進；提前",
+          "example_en": "The army advanced overnight.",
+          "example_zh": "軍隊在夜間推進。"
+        }
+      ]
+    },
+    {
+      "word": "advice",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "建議；忠告",
+          "example_en": "She gave me good advice.",
+          "example_zh": "她給了我很好的建議。"
+        }
+      ]
+    },
+    {
+      "word": "affair",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "事件；事務；戀情",
+          "example_en": "The business affair was settled.",
+          "example_zh": "那項商務事務已經解決。"
+        }
+      ]
+    },
+    {
+      "word": "affect",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "影響；感動",
+          "example_en": "The news affected him deeply.",
+          "example_zh": "這個消息深深影響了他。"
+        }
+      ]
+    },
+    {
+      "word": "against",
+      "definitions": [
+        {
+          "part_of_speech": "prep.",
+          "meaning_zh": "反對；倚著；對著",
+          "example_en": "She leaned against the wall.",
+          "example_zh": "她靠在牆上。"
+        }
+      ]
+    },
+    {
+      "word": "ahead",
+      "definitions": [
+        {
+          "part_of_speech": "adv.",
+          "meaning_zh": "在前；向前；事先",
+          "example_en": "Plan ahead for the trip.",
+          "example_zh": "為旅行提前規劃。"
+        }
+      ]
+    },
+    {
+      "word": "aid",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "援助；幫助",
+          "example_en": "They sent aid to the disaster area.",
+          "example_zh": "他們向災區送去救援物資。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "幫助；援助",
+          "example_en": "Volunteers aided the victims.",
+          "example_zh": "志工們幫助了受災者。"
+        }
+      ]
+    },
+    {
+      "word": "aim",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "目標；目的",
+          "example_en": "Her aim is to become a doctor.",
+          "example_zh": "她的目標是成為一名醫生。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "瞄準；旨在",
+          "example_en": "He aimed the camera at the stage.",
+          "example_zh": "他把相機對準舞台。"
+        }
+      ]
+    },
+    {
+      "word": "aircraft",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "飛機；航空器",
+          "example_en": "The aircraft landed safely.",
+          "example_zh": "飛機安全降落。"
+        }
+      ]
+    },
+    {
+      "word": "alarm",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "警報；驚恐",
+          "example_en": "The alarm woke everyone up.",
+          "example_zh": "警報把大家吵醒了。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "使驚恐；警告",
+          "example_en": "The news alarmed the residents.",
+          "example_zh": "這則消息使居民感到驚慌。"
+        }
+      ]
+    },
+    {
+      "word": "album",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "相簿；專輯",
+          "example_en": "She bought the singer's new album.",
+          "example_zh": "她買了那位歌手的新專輯。"
+        }
+      ]
+    },
+    {
+      "word": "alike",
+      "definitions": [
+        {
+          "part_of_speech": "adv.",
+          "meaning_zh": "相似地",
+          "example_en": "They think alike on many issues.",
+          "example_zh": "他們在許多問題上想法相似。"
+        },
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "相似的",
+          "example_en": "The two paintings look alike.",
+          "example_zh": "這兩幅畫看起來相似。"
+        }
+      ]
+    },
+    {
+      "word": "alive",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "活著的；有生氣的",
+          "example_en": "The plant is still alive.",
+          "example_zh": "那株植物還活著。"
+        }
+      ]
+    },
+    {
+      "word": "alone",
+      "definitions": [
+        {
+          "part_of_speech": "adv.",
+          "meaning_zh": "獨自地",
+          "example_en": "She lives alone.",
+          "example_zh": "她一個人住。"
+        },
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "孤單的；單獨的",
+          "example_en": "He felt alone in the crowd.",
+          "example_zh": "在群眾中他感到孤單。"
+        }
+      ]
+    },
+    {
+      "word": "aloud",
+      "definitions": [
+        {
+          "part_of_speech": "adv.",
+          "meaning_zh": "大聲地",
+          "example_en": "She read the story aloud.",
+          "example_zh": "她大聲地朗讀那個故事。"
+        }
+      ]
+    },
+    {
+      "word": "altogether",
+      "definitions": [
+        {
+          "part_of_speech": "adv.",
+          "meaning_zh": "完全地；總共",
+          "example_en": "Altogether, there were ten people.",
+          "example_zh": "總共有十個人。"
+        }
+      ]
+    },
+    {
+      "word": "among",
+      "definitions": [
+        {
+          "part_of_speech": "prep.",
+          "meaning_zh": "在…之中；在…之間（多者）",
+          "example_en": "She was among friends.",
+          "example_zh": "她在朋友之中。"
+        }
+      ]
+    },
+    {
+      "word": "amount",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "數量；金額",
+          "example_en": "The amount is due next week.",
+          "example_zh": "金額下週到期。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "總計；相當於",
+          "example_en": "This amounts to cheating.",
+          "example_zh": "這等於是作弊。"
+        }
+      ]
+    },
+    {
+      "word": "ancient",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "古老的；古代的",
+          "example_en": "They visited an ancient temple.",
+          "example_zh": "他們參觀了一座古老的寺廟。"
+        }
+      ]
+    },
+    {
+      "word": "anger",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "憤怒；怒氣",
+          "example_en": "His anger was obvious.",
+          "example_zh": "他的怒氣很明顯。"
+        }
+      ]
+    },
+    {
+      "word": "angle",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "角度；觀點",
+          "example_en": "Try looking at the problem from another angle.",
+          "example_zh": "試著從另一個角度看這個問題。"
+        }
+      ]
+    },
+    {
+      "word": "ankle",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "腳踝",
+          "example_en": "She twisted her ankle while hiking.",
+          "example_zh": "她健行時扭傷了腳踝。"
+        }
+      ]
+    },
+    {
+      "word": "anytime",
+      "definitions": [
+        {
+          "part_of_speech": "adv.",
+          "meaning_zh": "任何時候；隨時",
+          "example_en": "Call me anytime.",
+          "example_zh": "隨時打給我。"
+        }
+      ]
+    },
+    {
+      "word": "anyway",
+      "definitions": [
+        {
+          "part_of_speech": "adv.",
+          "meaning_zh": "無論如何；不管怎樣",
+          "example_en": "I don't want to go, but I'll come anyway.",
+          "example_zh": "我不想去，但我還是會去。"
+        }
+      ]
+    },
+    {
+      "word": "anywhere/anyplace",
+      "definitions": [
+        {
+          "part_of_speech": "adv.",
+          "meaning_zh": "任何地方",
+          "example_en": "You can sit anywhere/anyplace you like.",
+          "example_zh": "你可以坐在任何你喜歡的地方。"
+        }
+      ]
+    },
+    {
+      "word": "ape",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "類人猿；猿",
+          "example_en": "The ape swung from branch to branch.",
+          "example_zh": "那隻猿猴在樹枝間擺盪。"
+        }
+      ]
+    },
+    {
+      "word": "appearance",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "外表；出現",
+          "example_en": "His sudden appearance surprised us.",
+          "example_zh": "他突然出現使我們很驚訝。"
+        }
+      ]
+    },
+    {
+      "word": "appetite",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "食慾；欲望",
+          "example_en": "She had no appetite after the long trip.",
+          "example_zh": "長途旅行後她沒有食慾。"
+        }
+      ]
+    },
+    {
+      "word": "apply",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "申請；適用；塗（藥等）",
+          "example_en": "You should apply for the scholarship.",
+          "example_zh": "你應該申請那項獎學金。"
+        }
+      ]
+    },
+    {
+      "word": "appreciate",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "感激；欣賞；增值",
+          "example_en": "I appreciate your help.",
+          "example_zh": "我很感激你的幫助。"
+        }
+      ]
+    },
+    {
+      "word": "approach",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "方法；接近",
+          "example_en": "We need a new approach to the problem.",
+          "example_zh": "我們需要新的方法來解決這個問題。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "靠近；著手處理",
+          "example_en": "The train is approaching the station.",
+          "example_zh": "火車正靠近車站。"
+        }
+      ]
+    },
+    {
+      "word": "argue (argument)",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "爭論；爭辯",
+          "example_en": "They often argue about money.",
+          "example_zh": "他們經常為錢爭吵。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "爭論；論點（argument）",
+          "example_en": "His argument was convincing.",
+          "example_zh": "他的論點令人信服。"
+        }
+      ]
+    },
+    {
+      "word": "army",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "陸軍；軍隊",
+          "example_en": "The army was deployed to the area.",
+          "example_zh": "軍隊被部署到該地區。"
+        }
+      ]
+    },
+    {
+      "word": "arrange (arrangement)",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "安排；整理",
+          "example_en": "Please arrange the chairs for the meeting.",
+          "example_zh": "請為會議擺好椅子。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "安排；協議（arrangement）",
+          "example_en": "We made arrangements for the trip.",
+          "example_zh": "我們為旅行做了安排。"
+        }
+      ]
+    },
+    {
+      "word": "arrival",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "到達；到來",
+          "example_en": "The arrival of the guests was delayed.",
+          "example_zh": "客人的到達被延遲了。"
+        }
+      ]
+    },
+    {
+      "word": "arrow",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "箭；箭頭（符號）",
+          "example_en": "Follow the arrow to the exit.",
+          "example_zh": "跟著箭頭走向出口。"
+        }
+      ]
+    },
+    {
+      "word": "article",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "文章；物品；冠詞",
+          "example_en": "I read an interesting article today.",
+          "example_zh": "我今天讀到一篇有趣的文章。"
+        }
+      ]
+    },
+    {
+      "word": "artist",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "藝術家；表演者",
+          "example_en": "The artist exhibited her paintings.",
+          "example_zh": "藝術家展出她的畫作。"
+        }
+      ]
+    },
+    {
+      "word": "asleep",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "熟睡的；靜止的",
+          "example_en": "The baby is asleep.",
+          "example_zh": "嬰兒在睡覺。"
+        }
+      ]
+    },
+    {
+      "word": "attempt",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "嘗試；企圖",
+          "example_en": "His attempt failed.",
+          "example_zh": "他的嘗試失敗了。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "嘗試做…",
+          "example_en": "She attempted to climb the wall.",
+          "example_zh": "她嘗試爬上那堵牆。"
+        }
+      ]
+    },
+    {
+      "word": "attend",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "參加；出席；照顧",
+          "example_en": "Will you attend the meeting?",
+          "example_zh": "你會出席會議嗎？"
+        }
+      ]
+    },
+    {
+      "word": "attention",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "注意；關注",
+          "example_en": "Please pay attention to the teacher.",
+          "example_zh": "請注意老師的話。"
+        }
+      ]
+    },
+    {
+      "word": "author",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "作者；作家",
+          "example_en": "The author signed copies of the book.",
+          "example_zh": "作者簽名並販售書籍。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "撰寫；創作（正式用法）",
+          "example_en": "She authored several articles.",
+          "example_zh": "她撰寫了幾篇文章。"
+        }
+      ]
+    },
+    {
+      "word": "available",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "可用的；可得到的；有空的",
+          "example_en": "Is this product available in stores?",
+          "example_zh": "這項產品在店內有貨嗎？"
+        }
+      ]
+    },
+    {
+      "word": "average",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "平均的；一般的",
+          "example_en": "Her average score is high.",
+          "example_zh": "她的平均分很高。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "平均數；平均水平",
+          "example_en": "The class average improved.",
+          "example_zh": "班級平均分提高了。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "平均為；計算平均值",
+          "example_en": "He averages ten miles a day.",
+          "example_zh": "他平均每天跑十英里。"
+        }
+      ]
+    },
+    {
+      "word": "avoid",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "避免；躲開",
+          "example_en": "She avoids eating late at night.",
+          "example_zh": "她避免在晚上吃太晚。"
+        }
+      ]
+    },
+    {
+      "word": "backpack",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "背包",
+          "example_en": "He carried a heavy backpack.",
+          "example_zh": "他背著一個沉重的背包。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "背著背包旅行（背包客式旅行）",
+          "example_en": "They backpacked across Europe.",
+          "example_zh": "他們背包旅行穿越歐洲。"
+        }
+      ]
+    },
+    {
+      "word": "backward",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "向後的；落後的",
+          "example_en": "The region is economically backward.",
+          "example_zh": "該地區經濟落後。"
+        }
+      ]
+    },
+    {
+      "word": "backward/backwards",
+      "definitions": [
+        {
+          "part_of_speech": "adv.",
+          "meaning_zh": "向後地；倒退地",
+          "example_en": "He walked backward to avoid the puddle.",
+          "example_zh": "他向後走以避開水坑。"
+        }
+      ]
+    },
+    {
+      "word": "badminton",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "羽毛球",
+          "example_en": "They played badminton in the park.",
+          "example_zh": "他們在公園打羽毛球。"
+        }
+      ]
+    },
+    {
+      "word": "bake",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "烘烤；烘培",
+          "example_en": "She bakes bread every morning.",
+          "example_zh": "她每天早上烤麵包。"
+        }
+      ]
+    },
+    {
+      "word": "bakery",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "麵包店；烘焙坊",
+          "example_en": "I bought pastries at the bakery.",
+          "example_zh": "我在麵包店買了點心。"
+        }
+      ]
+    },
+    {
+      "word": "balance",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "平衡；餘額",
+          "example_en": "Check your account balance.",
+          "example_zh": "檢查你的帳戶餘額。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "使平衡；權衡",
+          "example_en": "She balanced the books carefully.",
+          "example_zh": "她小心地核算帳目。"
+        }
+      ]
+    },
+    {
+      "word": "balcony",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "陽台；包廂（劇院）",
+          "example_en": "We watched the parade from the balcony.",
+          "example_zh": "我們從陽台觀看遊行。"
+        }
+      ]
+    },
+    {
+      "word": "balloon",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "氣球",
+          "example_en": "The children played with balloons.",
+          "example_zh": "孩子們玩氣球。"
+        }
+      ]
+    },
+    {
+      "word": "bar",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "酒吧；欄杆；障礙",
+          "example_en": "They met at the bar after work.",
+          "example_zh": "他們下班後在酒吧碰面。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "阻止；禁止",
+          "example_en": "He was barred from entering the club.",
+          "example_zh": "他被禁止進入那家俱樂部。"
+        }
+      ]
+    },
+    {
+      "word": "barbecue",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "烤肉；燒烤聚會",
+          "example_en": "We had a barbecue on Sunday.",
+          "example_zh": "我們星期天舉行了燒烤。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "烤（肉）",
+          "example_en": "They barbecued chicken for dinner.",
+          "example_zh": "他們烤雞當晚餐。"
+        }
+      ]
+    },
+    {
+      "word": "barber",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "理髮師",
+          "example_en": "I went to the barber for a haircut.",
+          "example_zh": "我去理髮師那裡剪頭髮。"
+        }
+      ]
+    },
+    {
+      "word": "bark",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "狗叫聲；樹皮",
+          "example_en": "The dog's bark woke me up.",
+          "example_zh": "狗的叫聲把我吵醒了。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "狗吠；（人）大聲說",
+          "example_en": "The dog barked loudly.",
+          "example_zh": "那隻狗大聲吠叫。"
+        }
+      ]
+    },
+    {
+      "word": "base",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "基礎；底部；根據地",
+          "example_en": "The base of the statue is marble.",
+          "example_zh": "雕像的底座是大理石。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "以…為基礎；建立在…之上",
+          "example_en": "The story is based on true events.",
+          "example_zh": "這個故事是根據真實事件改編。"
+        }
+      ]
+    },
+    {
+      "word": "basic",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "基本的；初步的",
+          "example_en": "You need basic skills for the job.",
+          "example_zh": "這份工作需要基本技能。"
+        }
+      ]
+    },
+    {
+      "word": "basics",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "基礎；基本要點",
+          "example_en": "Let's cover the basics first.",
+          "example_zh": "我們先講基本要點。"
+        }
+      ]
+    },
+    {
+      "word": "basis",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "基礎；根據",
+          "example_en": "Decisions were made on a weekly basis.",
+          "example_zh": "決策是以每週為基礎做的。"
+        }
+      ]
+    },
+    {
+      "word": "bathe",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "洗澡；浸泡",
+          "example_en": "He bathed the baby gently.",
+          "example_zh": "他輕柔地替嬰兒洗澡。"
+        }
+      ]
+    },
+    {
+      "word": "battle",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "戰鬥；戰役",
+          "example_en": "The battle lasted for days.",
+          "example_zh": "這場戰鬥持續了好幾天。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "與…作戰；努力對抗",
+          "example_en": "They battled the disease for years.",
+          "example_zh": "他們與疾病抗爭多年。"
+        }
+      ]
+    },
+    {
+      "word": "beard",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "鬍鬚；絡腮鬍",
+          "example_en": "His beard is growing longer.",
+          "example_zh": "他的鬍子越來越長。"
+        }
+      ]
+    },
+    {
+      "word": "beat",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "打擊；擊敗；拍打",
+          "example_en": "They beat the other team.",
+          "example_zh": "他們擊敗了對手隊。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "節拍；疲憊感（口語）",
+          "example_en": "The drummer kept the beat.",
+          "example_zh": "鼓手保持節拍。"
+        }
+      ]
+    },
+    {
+      "word": "beauty",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "美；美麗的人或事物",
+          "example_en": "She admired the beauty of the sunset.",
+          "example_zh": "她欣賞夕陽的美景。"
+        }
+      ]
+    },
+    {
+      "word": "beer",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "啤酒",
+          "example_en": "He ordered a cold beer.",
+          "example_zh": "他點了一杯冰啤酒。"
+        }
+      ]
+    },
+    {
+      "word": "beg",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "乞求；懇求；請求",
+          "example_en": "He begged for forgiveness.",
+          "example_zh": "他懇求寬恕。"
+        }
+      ]
+    },
+    {
+      "word": "beginner",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "初學者；新手",
+          "example_en": "This course is for beginners.",
+          "example_zh": "這門課是給初學者的。"
+        }
+      ]
+    },
+    {
+      "word": "behave",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "舉止；表現",
+          "example_en": "Children should behave in class.",
+          "example_zh": "小孩上課應該舉止得體。"
+        }
+      ]
+    },
+    {
+      "word": "being",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "存在；生物；本質",
+          "example_en": "The being in the story was mysterious.",
+          "example_zh": "故事中的生物很神秘。"
+        }
+      ]
+    },
+    {
+      "word": "belief",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "信念；信仰；看法",
+          "example_en": "She holds the belief that hard work pays off.",
+          "example_zh": "她堅信努力會有回報。"
+        }
+      ]
+    },
+    {
+      "word": "bend",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "彎曲；使傾向於",
+          "example_en": "Bend the wire to make a hook.",
+          "example_zh": "把鐵絲彎成一個勾子。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "彎曲處；彎道",
+          "example_en": "Turn left at the bend.",
+          "example_zh": "在彎道向左轉。"
+        }
+      ]
+    },
+    {
+      "word": "better",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "較好的；較合適的",
+          "example_en": "This option is better.",
+          "example_zh": "這個選擇比較好。"
+        },
+        {
+          "part_of_speech": "adv.",
+          "meaning_zh": "更好地",
+          "example_en": "She sings better than before.",
+          "example_zh": "她比以前唱得更好。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "較好者；康復者（口語）",
+          "example_en": "He's a little better today.",
+          "example_zh": "他今天好一些了。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "使改進；勝過",
+          "example_en": "We hope to better our performance.",
+          "example_zh": "我們希望提升表現。"
+        }
+      ]
+    },
+    {
+      "word": "beyond",
+      "definitions": [
+        {
+          "part_of_speech": "prep.",
+          "meaning_zh": "超過；在…之外",
+          "example_en": "The town is beyond the hill.",
+          "example_zh": "那個城鎮在山的另一邊。"
+        },
+        {
+          "part_of_speech": "adv.",
+          "meaning_zh": "此外；更遠地",
+          "example_en": "The problem is beyond help.",
+          "example_zh": "問題已無法挽救。"
+        }
+      ]
+    },
+    {
+      "word": "bill",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "帳單；法案；紙鈔",
+          "example_en": "Please pay the bill at the counter.",
+          "example_zh": "請在櫃檯付帳。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "開帳單；宣傳（口語）",
+          "example_en": "They billed the show as a must-see event.",
+          "example_zh": "他們把演出宣傳為必看活動。"
+        }
+      ]
+    },
+    {
+      "word": "billion",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "十億",
+          "example_en": "The company is worth billions.",
+          "example_zh": "該公司的價值達數十億。"
+        }
+      ]
+    },
+    {
+      "word": "birth",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "出生；誕生",
+          "example_en": "The birth of the baby was celebrated.",
+          "example_zh": "嬰兒的出生受到了慶祝。"
+        }
+      ]
+    },
+    {
+      "word": "biscuit",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "餅乾（英式用法）；鬆餅（美式部分地區）",
+          "example_en": "She offered tea and biscuits.",
+          "example_zh": "她提供茶和餅乾。"
+        }
+      ]
+    },
+    {
+      "word": "bit",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "一點；小片；少量",
+          "example_en": "Wait a bit, please.",
+          "example_zh": "請稍等一下。"
+        }
+      ]
+    },
+    {
+      "word": "blackboard",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "黑板",
+          "example_en": "The teacher wrote on the blackboard.",
+          "example_zh": "老師在黑板上書寫。"
+        }
+      ]
+    },
+    {
+      "word": "blame",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "責怪；歸咎於",
+          "example_en": "Don't blame me for the mistake.",
+          "example_zh": "不要怪我犯錯。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "責備；責任",
+          "example_en": "Who is to blame for the accident?",
+          "example_zh": "誰應該為這起事故負責？"
+        }
+      ]
+    },
+    {
+      "word": "blank",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "空白的；無表情的",
+          "example_en": "He stared with a blank face.",
+          "example_zh": "他面無表情地盯著。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "空白；空格",
+          "example_en": "Fill in the blanks on the form.",
+          "example_zh": "在表格上填寫空格。"
+        }
+      ]
+    },
+    {
+      "word": "blanket",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "毯子；覆蓋物",
+          "example_en": "She wrapped the child in a blanket.",
+          "example_zh": "她用毯子把孩子包起來。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "覆蓋；籠罩",
+          "example_en": "Snow blanketed the ground.",
+          "example_zh": "雪覆蓋了地面。"
+        }
+      ]
+    },
+    {
+      "word": "blood",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "血；血液；家族關係（figurative）",
+          "example_en": "The wound was bleeding blood.",
+          "example_zh": "傷口在流血。"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "板；委員會；膳食（board）",
+          "example_en": "The notice is on the board.",
+          "example_zh": "公告貼在告示板上。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "登上（船、車、飛機）；提供膳宿（board）",
+          "example_en": "Passengers boarded the plane.",
+          "example_zh": "乘客登上飛機。"
+        }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,393 @@
+[
+    {
+      "word": "emphasize",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "強調",
+          "example_en": "The teacher emphasized the importance of honesty.",
+          "example_zh": "老師強調誠實的重要性。"
+        }
+      ]
+    },
+    {
+      "word": "employ",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "僱用；使用",
+          "example_en": "The company employs over 500 people.",
+          "example_zh": "這家公司僱用了五百多名員工。"
+        }
+      ]
+    },
+    {
+      "word": "employment",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "就業；工作",
+          "example_en": "Employment opportunities are increasing.",
+          "example_zh": "就業機會正在增加。"
+        }
+      ]
+    },
+    {
+      "word": "employee",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "員工",
+          "example_en": "Every employee must follow the rules.",
+          "example_zh": "每位員工都必須遵守規定。"
+        }
+      ]
+    },
+    {
+      "word": "employer",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "僱主",
+          "example_en": "The employer offered flexible hours.",
+          "example_zh": "僱主提供彈性的工時。"
+        }
+      ]
+    },
+    {
+      "word": "empty",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "空的",
+          "example_en": "The bottle is empty.",
+          "example_zh": "瓶子是空的。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "清空",
+          "example_en": "Please empty the trash.",
+          "example_zh": "請把垃圾清空。"
+        }
+      ]
+    },
+    {
+      "word": "encourage",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "鼓勵",
+          "example_en": "Parents should encourage their children.",
+          "example_zh": "父母應該鼓勵孩子。"
+        }
+      ]
+    },
+    {
+      "word": "enemy",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "敵人",
+          "example_en": "They faced a powerful enemy.",
+          "example_zh": "他們面對一個強大的敵人。"
+        }
+      ]
+    },
+    {
+      "word": "energy",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "能量；精力",
+          "example_en": "She has a lot of energy.",
+          "example_zh": "她精力充沛。"
+        }
+      ]
+    },
+    {
+      "word": "entire",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "整個的；全部的",
+          "example_en": "He spent the entire day studying.",
+          "example_zh": "他花了一整天讀書。"
+        }
+      ]
+    },
+    {
+      "word": "environment",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "環境",
+          "example_en": "We must protect the environment.",
+          "example_zh": "我們必須保護環境。"
+        }
+      ]
+    },
+    {
+      "word": "equal",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "相等的；平等的",
+          "example_en": "All people are equal.",
+          "example_zh": "人人平等。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "等於",
+          "example_en": "Two plus two equals four.",
+          "example_zh": "二加二等於四。"
+        }
+      ]
+    },
+    {
+      "word": "escape",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "逃離",
+          "example_en": "The prisoner escaped from jail.",
+          "example_zh": "囚犯從監獄逃走了。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "逃脫",
+          "example_en": "It was a narrow escape.",
+          "example_zh": "那真是一次驚險的逃脫。"
+        }
+      ]
+    },
+    {
+      "word": "especially",
+      "definitions": [
+        {
+          "part_of_speech": "adv.",
+          "meaning_zh": "尤其；特別",
+          "example_en": "I like fruit, especially apples.",
+          "example_zh": "我喜歡水果，尤其是蘋果。"
+        }
+      ]
+    },
+    {
+      "word": "event",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "事件；活動",
+          "example_en": "The event attracted many people.",
+          "example_zh": "這場活動吸引了許多人。"
+        }
+      ]
+    },
+    {
+      "word": "exact",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "精確的；正確的",
+          "example_en": "Please give me the exact time.",
+          "example_zh": "請告訴我確切的時間。"
+        }
+      ]
+    },
+    {
+      "word": "examine",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "檢查；檢驗",
+          "example_en": "The doctor examined the patient.",
+          "example_zh": "醫生檢查了病人。"
+        }
+      ]
+    },
+    {
+      "word": "exist",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "存在",
+          "example_en": "Do ghosts really exist?",
+          "example_zh": "鬼真的存在嗎？"
+        }
+      ]
+    },
+    {
+      "word": "exit",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "出口",
+          "example_en": "This is the emergency exit.",
+          "example_zh": "這是緊急出口。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "離開；退出",
+          "example_en": "Please exit the building calmly.",
+          "example_zh": "請冷靜地離開建築物。"
+        }
+      ]
+    },
+    {
+      "word": "expert",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "專家",
+          "example_en": "She is an expert in biology.",
+          "example_zh": "她是生物學專家。"
+        },
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "專業的",
+          "example_en": "He gave expert advice.",
+          "example_zh": "他提供了專業建議。"
+        }
+      ]
+    },
+    {
+      "word": "express",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "表達",
+          "example_en": "She expressed her feelings clearly.",
+          "example_zh": "她清楚地表達了自己的感受。"
+        }
+      ]
+    },
+    {
+      "word": "extra",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "額外的",
+          "example_en": "I need extra time.",
+          "example_zh": "我需要額外的時間。"
+        }
+      ]
+    },
+    {
+      "word": "failure",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "失敗",
+          "example_en": "Failure is part of learning.",
+          "example_zh": "失敗是學習的一部分。"
+        }
+      ]
+    },
+    {
+      "word": "fear",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "恐懼",
+          "example_en": "He has a fear of heights.",
+          "example_zh": "他有懼高症。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "害怕",
+          "example_en": "She fears losing her job.",
+          "example_zh": "她害怕失去工作。"
+        }
+      ]
+    },
+    {
+      "word": "feature",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "特徵；特色",
+          "example_en": "One feature of the phone is its camera.",
+          "example_zh": "這支手機的一個特色是相機。"
+        },
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "以…為特色",
+          "example_en": "The show features young artists.",
+          "example_zh": "這個節目以年輕藝術家為特色。"
+        }
+      ]
+    },
+    {
+      "word": "focus",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "專注",
+          "example_en": "Please focus on your work.",
+          "example_zh": "請專心工作。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "焦點；重點",
+          "example_en": "Safety is the main focus.",
+          "example_zh": "安全是重點。"
+        }
+      ]
+    },
+    {
+      "word": "freedom",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "自由",
+          "example_en": "Freedom of speech is important.",
+          "example_zh": "言論自由很重要。"
+        }
+      ]
+    },
+    {
+      "word": "gain",
+      "definitions": [
+        {
+          "part_of_speech": "v.",
+          "meaning_zh": "獲得；增加",
+          "example_en": "He gained a lot of experience.",
+          "example_zh": "他獲得了很多經驗。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "收益；增加",
+          "example_en": "The company reported a gain.",
+          "example_zh": "公司回報了收益。"
+        }
+      ]
+    },
+    {
+      "word": "general",
+      "definitions": [
+        {
+          "part_of_speech": "adj.",
+          "meaning_zh": "一般的；普遍的",
+          "example_en": "This is a general rule.",
+          "example_zh": "這是一條一般規則。"
+        },
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "將軍",
+          "example_en": "The general led the army.",
+          "example_zh": "將軍率領軍隊。"
+        }
+      ]
+    },
+    {
+      "word": "goal",
+      "definitions": [
+        {
+          "part_of_speech": "n.",
+          "meaning_zh": "目標",
+          "example_en": "Her goal is to become a doctor.",
+          "example_zh": "她的目標是成為一名醫生。"
+        }
+      ]
+    }
+  ]
+  
